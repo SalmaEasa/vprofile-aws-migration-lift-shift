@@ -58,7 +58,7 @@ Since this project uses the AWS Free Tier without a custom domain:
 * `/userdata`: Bash scripts used for bootstrapping EC2 instances.
 * `pom.xml`: Maven configuration for building the WAR file.
 
-![vProfile Architecture](architecture.png)
+![vProfile Architecture](Diagrams/architecture.png)
 
 ---
 
